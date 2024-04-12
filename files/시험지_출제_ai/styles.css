@@ -64,7 +64,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -77,7 +77,7 @@
   width:768px;
   height:935px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -117,7 +117,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -131,7 +131,7 @@
   width:708px;
   height:805px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -158,7 +158,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -215,7 +215,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -228,7 +228,7 @@
   width:768px;
   height:5560px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -268,7 +268,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -282,7 +282,7 @@
   width:708px;
   height:435px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -309,7 +309,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -337,7 +337,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -351,7 +351,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -383,7 +383,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -397,7 +397,7 @@
   width:668px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -429,7 +429,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -444,7 +444,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -477,7 +477,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -491,7 +491,7 @@
   width:668px;
   height:80px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -524,7 +524,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -539,7 +539,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -572,7 +572,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -587,7 +587,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -620,7 +620,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -634,7 +634,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -764,7 +764,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -778,7 +778,7 @@
   width:708px;
   height:440px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -805,7 +805,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -833,7 +833,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -847,7 +847,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -879,7 +879,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -893,7 +893,7 @@
   width:668px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -925,7 +925,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -940,7 +940,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -973,7 +973,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -987,7 +987,7 @@
   width:668px;
   height:90px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1020,7 +1020,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1035,7 +1035,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1068,7 +1068,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1083,7 +1083,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1116,7 +1116,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1130,7 +1130,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1260,7 +1260,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1274,7 +1274,7 @@
   width:708px;
   height:1660px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1301,7 +1301,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1329,7 +1329,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -1343,7 +1343,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -1375,7 +1375,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1389,7 +1389,7 @@
   width:668px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1421,7 +1421,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1436,7 +1436,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1469,7 +1469,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1483,7 +1483,7 @@
   width:668px;
   height:900px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1516,7 +1516,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1531,7 +1531,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1564,7 +1564,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1579,7 +1579,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1612,7 +1612,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1626,7 +1626,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1786,7 +1786,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1800,7 +1800,7 @@
   width:708px;
   height:1370px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1827,7 +1827,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -1855,7 +1855,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -1869,7 +1869,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -1901,7 +1901,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1915,7 +1915,7 @@
   width:668px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -1947,7 +1947,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1962,7 +1962,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -1995,7 +1995,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2009,7 +2009,7 @@
   width:668px;
   height:720px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2042,7 +2042,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2057,7 +2057,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2090,7 +2090,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2105,7 +2105,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2138,7 +2138,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2152,7 +2152,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2312,7 +2312,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -2326,7 +2326,7 @@
   width:708px;
   height:1530px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -2353,7 +2353,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -2381,7 +2381,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -2395,7 +2395,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -2427,7 +2427,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2441,7 +2441,7 @@
   width:668px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2473,7 +2473,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2488,7 +2488,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2521,7 +2521,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2535,7 +2535,7 @@
   width:668px;
   height:1030px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2568,7 +2568,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2583,7 +2583,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2616,7 +2616,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2631,7 +2631,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -2664,7 +2664,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2678,7 +2678,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -2800,7 +2800,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -2812,7 +2812,7 @@
   width:738px;
   height:20px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -2876,7 +2876,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -2889,7 +2889,7 @@
   width:708px;
   height:100px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -2966,7 +2966,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -2980,7 +2980,7 @@
   width:320px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -3012,7 +3012,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   text-align:left;
   line-height:35px;
@@ -3025,7 +3025,7 @@
   width:708px;
   height:591px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   text-align:left;
   line-height:35px;
@@ -3056,7 +3056,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -3070,7 +3070,7 @@
   width:708px;
   height:80px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -3118,7 +3118,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -3132,7 +3132,7 @@
   width:708px;
   height:435px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -3159,7 +3159,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -3187,7 +3187,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -3201,7 +3201,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -3233,7 +3233,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3247,7 +3247,7 @@
   width:668px;
   height:80px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3280,7 +3280,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3295,7 +3295,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3328,7 +3328,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3343,7 +3343,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3492,7 +3492,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3506,7 +3506,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3560,7 +3560,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3574,7 +3574,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3628,7 +3628,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3642,7 +3642,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3696,7 +3696,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3710,7 +3710,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3764,7 +3764,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3778,7 +3778,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -3816,7 +3816,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -3877,7 +3877,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -3938,7 +3938,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -3999,7 +3999,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4060,7 +4060,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4141,7 +4141,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -4155,7 +4155,7 @@
   width:668px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -4190,7 +4190,7 @@
   width:21px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4231,7 +4231,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4272,7 +4272,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4313,7 +4313,7 @@
   width:24px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -4360,7 +4360,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -4373,7 +4373,7 @@
   width:135px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -4436,7 +4436,7 @@
   width:13px;
   height:13px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -4484,7 +4484,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -4498,7 +4498,7 @@
   width:122px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -4525,7 +4525,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -4547,7 +4547,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -4612,7 +4612,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -4626,7 +4626,7 @@
   width:708px;
   height:440px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -4653,7 +4653,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -4681,7 +4681,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -4695,7 +4695,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -4727,7 +4727,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -4741,7 +4741,7 @@
   width:668px;
   height:90px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -4774,7 +4774,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4789,7 +4789,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4822,7 +4822,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4837,7 +4837,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4986,7 +4986,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5000,7 +5000,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5054,7 +5054,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5068,7 +5068,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5122,7 +5122,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5136,7 +5136,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5190,7 +5190,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5204,7 +5204,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5258,7 +5258,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5272,7 +5272,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5310,7 +5310,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5371,7 +5371,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5432,7 +5432,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5493,7 +5493,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5554,7 +5554,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5635,7 +5635,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5649,7 +5649,7 @@
   width:668px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -5684,7 +5684,7 @@
   width:21px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5731,7 +5731,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -5744,7 +5744,7 @@
   width:135px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -5807,7 +5807,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5848,7 +5848,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5889,7 +5889,7 @@
   width:24px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -5936,7 +5936,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -5950,7 +5950,7 @@
   width:122px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -5977,7 +5977,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -5999,7 +5999,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -6058,7 +6058,7 @@
   width:13px;
   height:13px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -6106,7 +6106,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -6120,7 +6120,7 @@
   width:708px;
   height:1660px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -6147,7 +6147,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -6175,7 +6175,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -6189,7 +6189,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -6221,7 +6221,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6235,7 +6235,7 @@
   width:668px;
   height:900px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6268,7 +6268,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -6283,7 +6283,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -6316,7 +6316,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -6331,7 +6331,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -6480,7 +6480,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6494,7 +6494,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6548,7 +6548,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6562,7 +6562,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6616,7 +6616,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6630,7 +6630,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6684,7 +6684,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6698,7 +6698,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6752,7 +6752,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6766,7 +6766,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -6804,7 +6804,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -6865,7 +6865,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -6926,7 +6926,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -6987,7 +6987,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7048,7 +7048,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7129,7 +7129,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -7143,7 +7143,7 @@
   width:668px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -7178,7 +7178,7 @@
   width:21px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7225,7 +7225,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -7238,7 +7238,7 @@
   width:135px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -7301,7 +7301,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7342,7 +7342,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7383,7 +7383,7 @@
   width:24px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -7438,7 +7438,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -7452,7 +7452,7 @@
   width:122px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -7479,7 +7479,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -7501,7 +7501,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -7590,7 +7590,7 @@
   width:13px;
   height:13px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -7638,7 +7638,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -7652,7 +7652,7 @@
   width:708px;
   height:1370px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -7679,7 +7679,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -7707,7 +7707,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -7721,7 +7721,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -7753,7 +7753,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -7767,7 +7767,7 @@
   width:668px;
   height:720px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -7800,7 +7800,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7815,7 +7815,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7848,7 +7848,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -7863,7 +7863,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -8042,7 +8042,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8056,7 +8056,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8110,7 +8110,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8124,7 +8124,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8178,7 +8178,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8192,7 +8192,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8246,7 +8246,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8260,7 +8260,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8314,7 +8314,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8328,7 +8328,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8366,7 +8366,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8427,7 +8427,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8488,7 +8488,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8549,7 +8549,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8610,7 +8610,7 @@
   width:80px;
   height:16px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8691,7 +8691,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8705,7 +8705,7 @@
   width:668px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -8740,7 +8740,7 @@
   width:21px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8795,7 +8795,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -8808,7 +8808,7 @@
   width:135px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -8871,7 +8871,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8912,7 +8912,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -8953,7 +8953,7 @@
   width:24px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -9002,7 +9002,7 @@
   width:13px;
   height:13px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -9050,7 +9050,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -9064,7 +9064,7 @@
   width:122px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -9091,7 +9091,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -9113,7 +9113,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -9178,7 +9178,7 @@
   -moz-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   -webkit-box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
   box-shadow:1px 1px 3px rgba(0, 0, 0, 0.349019607843137);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -9192,7 +9192,7 @@
   width:708px;
   height:1530px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -9219,7 +9219,7 @@
   -moz-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   -webkit-box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
   box-shadow:0px 0px 5px rgba(0, 0, 255, 0.4);
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -9247,7 +9247,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -9261,7 +9261,7 @@
   width:60px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:28px;
@@ -9293,7 +9293,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9307,7 +9307,7 @@
   width:668px;
   height:1030px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9340,7 +9340,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9355,7 +9355,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9388,7 +9388,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9403,7 +9403,7 @@
   width:100px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -9436,7 +9436,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9450,7 +9450,7 @@
   width:668px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9565,7 +9565,7 @@
   width:120px;
   height:40px;
   padding:0px 10px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -9584,7 +9584,7 @@
   width:120px;
   height:40px;
   padding:0px 10px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -9613,7 +9613,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -9626,7 +9626,7 @@
   width:120px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -9655,7 +9655,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -9702,7 +9702,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9716,7 +9716,7 @@
   width:668px;
   height:60px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -9751,7 +9751,7 @@
   width:21px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -9806,7 +9806,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -9819,7 +9819,7 @@
   width:135px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -9882,7 +9882,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -9923,7 +9923,7 @@
   width:22px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -9964,7 +9964,7 @@
   width:24px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
 }
@@ -10011,7 +10011,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -10025,7 +10025,7 @@
   width:122px;
   height:30px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -10052,7 +10052,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -10074,7 +10074,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -10133,7 +10133,7 @@
   width:13px;
   height:13px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#1E5DF8;
@@ -10181,7 +10181,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -10195,7 +10195,7 @@
   width:708px;
   height:80px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -10230,7 +10230,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10244,7 +10244,7 @@
   width:100px;
   height:46px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10274,7 +10274,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10299,7 +10299,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10329,7 +10329,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10343,7 +10343,7 @@
   width:150px;
   height:46px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10373,7 +10373,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10398,7 +10398,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:18px;
@@ -10425,7 +10425,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   font-size:20px;
   text-align:right;
@@ -10438,7 +10438,7 @@
   width:148px;
   height:29px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   font-size:20px;
   text-align:right;
@@ -10503,7 +10503,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -10517,7 +10517,7 @@
   width:70px;
   height:895px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -10583,7 +10583,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10595,7 +10595,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10625,7 +10625,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10637,7 +10637,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10667,7 +10667,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10679,7 +10679,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10709,7 +10709,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10721,7 +10721,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10751,7 +10751,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10763,7 +10763,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10793,7 +10793,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10805,7 +10805,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10835,7 +10835,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10847,7 +10847,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10877,7 +10877,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10889,7 +10889,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10919,7 +10919,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10931,7 +10931,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10961,7 +10961,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -10973,7 +10973,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11003,7 +11003,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11015,7 +11015,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11045,7 +11045,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11057,7 +11057,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11087,7 +11087,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11099,7 +11099,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11129,7 +11129,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11141,7 +11141,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11171,7 +11171,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11183,7 +11183,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11213,7 +11213,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11225,7 +11225,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11255,7 +11255,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11267,7 +11267,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11297,7 +11297,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11309,7 +11309,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11339,7 +11339,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11351,7 +11351,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11381,7 +11381,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11393,7 +11393,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11423,7 +11423,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11435,7 +11435,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11465,7 +11465,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11477,7 +11477,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11507,7 +11507,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11519,7 +11519,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11549,7 +11549,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11561,7 +11561,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11591,7 +11591,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11603,7 +11603,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11633,7 +11633,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11645,7 +11645,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11675,7 +11675,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11687,7 +11687,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11717,7 +11717,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11729,7 +11729,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11759,7 +11759,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11771,7 +11771,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11801,7 +11801,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11813,7 +11813,7 @@
   width:40px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
 }
@@ -11877,7 +11877,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -11892,7 +11892,7 @@
   width:1636px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -11925,7 +11925,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   font-size:16px;
   text-align:right;
@@ -11938,7 +11938,7 @@
   width:220px;
   height:24px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-style:normal;
   font-size:16px;
   text-align:right;
@@ -11977,7 +11977,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -11992,7 +11992,7 @@
   width:1636px;
   height:50px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:20px;
@@ -12019,7 +12019,7 @@
   width:100px;
   height:34px;
   padding:0px 5px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12038,7 +12038,7 @@
   width:100px;
   height:34px;
   padding:0px 5px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12057,7 +12057,7 @@
   width:100px;
   height:34px;
   padding:0px 5px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12086,7 +12086,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12099,7 +12099,7 @@
   width:100px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12128,7 +12128,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12152,7 +12152,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12171,7 +12171,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12190,7 +12190,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12209,7 +12209,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12238,7 +12238,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12251,7 +12251,7 @@
   width:100px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12280,7 +12280,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12304,7 +12304,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12323,7 +12323,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12342,7 +12342,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12361,7 +12361,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12390,7 +12390,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12403,7 +12403,7 @@
   width:100px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12432,7 +12432,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12456,7 +12456,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12475,7 +12475,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12494,7 +12494,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12513,7 +12513,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12542,7 +12542,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12555,7 +12555,7 @@
   width:100px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12584,7 +12584,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12608,7 +12608,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12627,7 +12627,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12646,7 +12646,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12665,7 +12665,7 @@
   width:100px;
   height:34px;
   padding:0px 0px 0px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12694,7 +12694,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12707,7 +12707,7 @@
   width:100px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12736,7 +12736,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12760,7 +12760,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -12810,7 +12810,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -12823,7 +12823,7 @@
   width:34px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR Bold', 'Noto Sans KR Regular', 'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -12891,7 +12891,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -12904,7 +12904,7 @@
   width:350px;
   height:40px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -12936,7 +12936,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   text-align:left;
@@ -13000,7 +13000,7 @@
   width:350px;
   height:34px;
   padding:2px 2px 2px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -13019,7 +13019,7 @@
   width:350px;
   height:34px;
   padding:2px 2px 2px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -13038,7 +13038,7 @@
   width:350px;
   height:34px;
   padding:2px 2px 2px 10px;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -13067,7 +13067,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#8C8C8C;
@@ -13080,7 +13080,7 @@
   width:350px;
   height:34px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#8C8C8C;
@@ -13109,7 +13109,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#8C8C8C;
@@ -13133,7 +13133,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   color:#8C8C8C;
@@ -13215,7 +13215,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -13229,7 +13229,7 @@
   width:1506px;
   height:20px;
   display:flex;
-  font-family:'Noto Sans KR', sans-serif;
+  font-family:'Noto Sans KR';
   font-weight:400;
   font-style:normal;
   font-size:12px;
